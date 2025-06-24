@@ -1,4 +1,4 @@
-/*
+/* 
 Currency Converter Script:
 Define currencies
 Create condition to facilitate conversion of one currency to another
